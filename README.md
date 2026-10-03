@@ -2,7 +2,9 @@
 
 A Claude Code mod that draws a quiet instrument strip above the prompt:
 
-![usage-band](docs/preview.png)
+![usage-band in the Claude Code desktop app](docs/preview.png)
+
+<sub>The strip above the prompt in the Claude Code desktop app.</sub>
 
 | Cell | What it shows |
 | --- | --- |
