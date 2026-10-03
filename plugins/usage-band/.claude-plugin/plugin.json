@@ -1,0 +1,9 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "A quiet instrument strip above the prompt: 5h and 7d rate limits, input/output tokens and session cost",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "DoingSomethinh"
+  }
+}
