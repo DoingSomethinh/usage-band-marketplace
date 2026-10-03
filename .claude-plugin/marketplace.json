@@ -1,16 +1,20 @@
 {
   "name": "usage-band",
-  "owner": { "name": "DoingSomethinh" },
+  "owner": {
+    "name": "DoingSomethinh"
+  },
   "metadata": {
     "description": "Claude Code mods by DoingSomethinh"
   },
   "plugins": [
     {
       "name": "usage-band",
-      "source": "./plugins/usage-band",
+      "source": "./",
       "description": "A quiet instrument strip above the prompt: 5h and 7d rate limits, input/output tokens and session cost",
       "version": "0.1.0",
-      "author": { "name": "DoingSomethinh" }
+      "author": {
+        "name": "DoingSomethinh"
+      }
     }
   ]
 }

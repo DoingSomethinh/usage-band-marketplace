@@ -36,7 +36,7 @@ Works in the desktop Code tab (drawn as SVG) and the terminal (one text line). T
 ## Develop
 
 ```
-claude --plugin-dir ./plugins/usage-band
-claude plugin validate ./plugins/usage-band
-claude plugin test ./plugins/usage-band
+claude --plugin-dir .
+claude plugin validate .
+claude plugin test .
 ```
